@@ -8,6 +8,8 @@
     
 <h3 align="center">Full stack Developer | Software Developer | Ui/Ux Designer | Data Analyst</h3>
 
+## About Me
+As a student at Karpagam College of Engineering, Coimbatore, I have a passion for learning new technologies. My interests span UI/UX design, full-stack development, data analytics, and software development. I am driven to explore and master diverse tech stacks to expand my skillset and creativity in the field.
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">

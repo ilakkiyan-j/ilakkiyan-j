@@ -9,7 +9,8 @@
 <h3 align="center">Software Developer | Ai & Web Enthusiast </h3>
 
 ## About Me
-As a student at Karpagam College of Engineering, Coimbatore, I have a passion for learning new technologies. My interests span UI/UX design, full-stack development, and software development. I am driven to explore and master diverse tech stacks to expand my skillset and creativity in the field.
+<p>I am a passionate and curious tech enthusiast pursuing Computer Science and Design at Karpagam College of Engineering, Coimbatore. I thrive on learning and experimenting with cutting-edge technologies, continuously expanding my skillset and creativity.</p>
+<p>My interests span UI/UX design, full-stack development, and software development, where I focus on building efficient, scalable, and user-friendly applications. I enjoy working with diverse tech stacks, refining my problem-solving skills, and embracing innovation in every project.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">

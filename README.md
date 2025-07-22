@@ -12,7 +12,8 @@
 <p>I am a passionate and curious tech enthusiast pursuing Computer Science and Design at Karpagam College of Engineering, Coimbatore. I thrive on learning and experimenting with cutting-edge technologies, continuously expanding my skillset and creativity.</p>
 <p>My interests span UI/UX design, full-stack development, and software development, where I focus on building efficient, scalable, and user-friendly applications. I enjoy working with diverse tech stacks, refining my problem-solving skills, and embracing innovation in every project.</p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
+<hr>
 <div align="center">
   <a href="https://github.com/ilakkiyan-j">
     <img src="https://skillicons.dev/icons?i=html,css,js,postman,react,nodejs,express,mysql,c,cpp,java,py,figma,postgresql">

@@ -15,7 +15,7 @@
 ## Languages and Tools
 <div align="center">
   <a href="https://github.com/ilakkiyan-j">
-    <img src="https://skillicons.dev/icons?i=html,css,js,postman,react,nodejs,express,mysql,c,cpp,java,py,figma,postgresql,prisma,ts">
+    <img src="https://skillicons.dev/icons?i=html,css,js,postman,react,nodejs,express,mysql,c,cpp,java,py,figma,postgresql,prisma,ts,rasa">
   </a>
    <p align="center">And more!</p>
 </div>

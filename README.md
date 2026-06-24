@@ -30,8 +30,7 @@ I build things that sit at the intersection of **robust backend systems**, **NLP
 
 I'm drawn to problems that matter: in 2026, I co-authored and presented research at **ICIRCA 2026** on a digital-twin-driven healthcare framework built from real project work.
 
-- 🔭 Currently working on: **Medorc** healthcare platform
-- 🧠 Exploring: AI-driven health data orchestration
+
 - 🏆 LeetCode max rating: **1641** · **700+ problems** solved
 - 📍 Based in Thiruvarur, India
 

@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=600&color=B24392&size=36&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+%F0%9F%91%8B+I'm+Ilakkiyan+J;Backend+Engineer;NLP+%26+Healthcare+Tech;Full-Stack+Developer" alt="Ilakkiyan J"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=600&color=B24392&size=36&center=true&vCenter=true&random=false&width=520&lines=Hey+there!+%F0%9F%91%8B+I'm+Ilakkiyan+J;Backend+Engineer;NLP+%26+Healthcare+Tech;Full-Stack+AI+Developer" alt="Ilakkiyan J"/>
   </a>
 </h1>
 
@@ -24,13 +24,13 @@
 <img align="right" width="280" src="https://github-readme-stats.vercel.app/api?username=ilakkiyan-j&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B24392&icon_color=B24392&text_color=ffffff#gh-dark-mode-only" />
 <img align="right" width="280" src="https://github-readme-stats.vercel.app/api?username=ilakkiyan-j&show_icons=true&theme=default&hide_border=true&title_color=B24392&icon_color=B24392&text_color=333333#gh-light-mode-only" />
 
-I'm a **Computer Science and Design** undergraduate at **Karpagam College of Engineering, Coimbatore**, with a CGPA of **8.5/10**.
+I'm a **Computer Science and Design** graduate (Class of 2026) from **Karpagam College of Engineering, Coimbatore**, with a CGPA of **8.5/10**.
 
-I build things that sit at the intersection of **robust backend systems**, **NLP pipelines**, and **clean UI** — whether that's a healthcare API serving 50+ endpoints or a conversational AI chatbot understanding real patient queries.
+I build things that sit at the intersection of **robust backend systems**, **on-device AI**, and **clean UI** — whether that's a healthcare API serving 50+ endpoints, a fully offline desktop assistant running local LLMs, or a conversational chatbot that understands real patient queries.
 
 I'm drawn to problems that matter: in 2026, I co-authored and presented research at **ICIRCA 2026** on a digital-twin-driven healthcare framework built from real project work.
 
-
+- 🔭 Currently building **Sofi**, a fully offline AI desktop assistant with local LLM inference
 - 🏆 LeetCode max rating: **1641** · **700+ problems** solved
 - 📍 Based in Thiruvarur, India
 
@@ -84,7 +84,7 @@ I'm drawn to problems that matter: in 2026, I co-authored and presented research
   <tr>
     <td>
       <strong>📝 Medorc: A Digital-Twin-Driven Framework for Real-Time Health Data Orchestration and Decision Support</strong><br/><br/>
-      Co-authored and presented at the <strong>7th International Conference on Intelligent Computing and Research Applications (ICIRCA 2026)</strong><br/>
+      Co-authored and presented at the <strong>7th International Conference on Inventive Research in Computing Applications (ICIRCA 2026)</strong><br/>
       RVS College of Engineering and Technology, Coimbatore · <em>June 2026</em>
     </td>
   </tr>
@@ -93,6 +93,17 @@ I'm drawn to problems that matter: in 2026, I co-authored and presented research
 ---
 
 ## 🚀 Featured Projects
+
+### 🖥️ [Sofi — AI Desktop Assistant](https://github.com/ilakkiyan-j/Sofi)
+> *A fully offline AI desktop assistant — local LLM inference, semantic memory, and voice interaction, wrapped in a native app.*
+
+| | |
+|---|---|
+| **Role** | Full-Stack AI Developer |
+| **Stack** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6F61?style=flat-square) ![Vosk](https://img.shields.io/badge/-Vosk-4B32C3?style=flat-square) ![Coqui TTS](https://img.shields.io/badge/-Coqui%20TTS-8E44AD?style=flat-square) |
+| **Highlights** | **20+ desktop automation tools** powered by local LLM inference via **Ollama** · Semantic memory via **ChromaDB** · Voice interaction with **Vosk** (speech-to-text) & **Coqui-TTS** (text-to-speech) · Custom tool-calling framework for file management, app control & Windows system operations |
+
+<br/>
 
 ### 🏥 [Medorc — Secure Healthcare Platform](https://github.com/Medorc/medorc-backend)
 > *The backend powering a full digital-twin-driven healthcare system — the same platform featured in ICIRCA 2026.*
@@ -114,7 +125,6 @@ I'm drawn to problems that matter: in 2026, I co-authored and presented research
 | **Stack** | ![RASA](https://img.shields.io/badge/-RASA-5A17EE?style=flat-square&logo=rasa&logoColor=white) ![YAML](https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | **Highlights** | NLU pipeline with **20+ intents** & **10+ custom entities** · **15+ actions** wired directly to Medorc's REST API |
 
-
 ---
 
 ## 🛠️ Languages & Tools
@@ -135,15 +145,27 @@ I'm drawn to problems that matter: in 2026, I co-authored and presented research
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 **Backend & Database**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**AI & ML**
+
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![RASA](https://img.shields.io/badge/-RASA-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6F61?style=for-the-badge)
+![Vosk](https://img.shields.io/badge/-Vosk-4B32C3?style=for-the-badge)
+![Coqui TTS](https://img.shields.io/badge/-Coqui%20TTS-8E44AD?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-6E44FF?style=for-the-badge)
 
 **Tools**
 
@@ -185,11 +207,11 @@ I'm drawn to problems that matter: in 2026, I co-authored and presented research
 
 ## 📜 Certifications
 
-| Certificate | Issuer | Year |
+| Certificate | Issuer | Date |
 |---|---|---|
-| Agile Project Management | HP Life | 2025 |
-| Software Engineer | HackerRank | 2025 |
-| The Complete Web Development Bootcamp | Udemy | 2024 |
+| Agile Project Management | HP Life | Jul 2025 |
+| Software Engineer | HackerRank | Jul 2025 |
+| The Complete Web Development Bootcamp | Udemy | Nov 2024 |
 
 ---
 

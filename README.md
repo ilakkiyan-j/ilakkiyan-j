@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&section=header&text=Hi,%20I'm%20Ilakkiyan%20J&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Backend%20Engineer&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&section=header&text=Hi,%20I'm%20Ilakkiyan%20J&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Product%20Engineer%20%C2%B7%20Building%20AI%20End-to-End&descAlignY=55&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=B24392&size=22&center=true&vCenter=true&width=650&lines=Building+AI-powered+products;Engineering+scalable+backend+systems;Exploring+Agentic+AI+%26+local+LLMs;Healthcare+%2B+AI+%2B+Full-Stack+Engineering" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=B24392&size=22&center=true&vCenter=true&width=650&lines=I+build+AI+products+end-to-end;From+model+to+backend+to+shipped+product;Engineering+scalable+systems+around+LLMs;Offline+assistants+%C2%B7+RAG+%C2%B7+Agentic+workflows" alt="Typing animation"/>
 </a>
 
 <br/>
@@ -25,51 +25,97 @@
 
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=ilakkiyan-j&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B24392&icon_color=B24392&text_color=ffffff"/>
 
-I'm a **Software Engineer** who builds reliable backend systems and practical, production-oriented AI applications.
+I'm an **AI Product Engineer** — I build AI products end-to-end, from model integration and backend architecture to the interface a user actually touches.
 
 I like working at the intersection of **backend engineering, artificial intelligence, data orchestration, and product development** — from type-safe REST APIs to fully offline AI assistants powered by local LLMs.
 
-```yaml
-education: "B.E. Computer Science & Design — Karpagam College of Engineering"
-cgpa: "8.5 / 10"
-dsa: "700+ problems solved (LeetCode & GeeksforGeeks)"
-contest_rating: "1641 (LeetCode)"
-exploring: "Agentic AI · RAG · IBM Granite"
-location: "Tamil Nadu, India"
-```
-
 <br clear="right"/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="220">
+🎓<br/>
+<b>Education</b><br/>
+<sub>B.E. CS & Design</sub>
+</td>
+
+<td align="center" width="220">
+📊<br/>
+<b>CGPA</b><br/>
+<sub>8.5 / 10</sub>
+</td>
+
+<td align="center" width="220">
+🧠<br/>
+<b>DSA</b><br/>
+<sub>700+ Solved</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="220">
+⭐<br/>
+<b>LeetCode</b><br/>
+<sub>1641 Rating</sub>
+</td>
+
+<td align="center" width="220">
+🔬<br/>
+<b>Exploring</b><br/>
+<sub>Agentic AI · RAG</sub>
+</td>
+
+<td align="center" width="220">
+📍<br/>
+<b>Location</b><br/>
+<sub>Tamil Nadu, India</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 🧩 What I Build
 
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
-<td width="50%" valign="top">
 
-### ⚙️ Backend Systems
-- Type-safe REST APIs
-- Authentication & RBAC
-- Database architecture
-- API integrations
-- Data orchestration
-- Production-oriented backend design
-
-</td>
-<td width="50%" valign="top">
+<td align="center" valign="top" width="320">
 
 ### 🤖 AI Applications
-- LLM-powered applications
-- Local LLM inference
-- RAG systems
-- Agentic workflows
-- Semantic memory
-- NLP pipelines & tool calling
+
+LLM-powered applications<br/>
+Local LLM inference<br/>
+RAG systems<br/>
+Agentic workflows<br/>
+Semantic memory<br/>
+NLP pipelines & tool calling
 
 </td>
+
+<td align="center" valign="top" width="320">
+
+### ⚙️ Backend Systems
+
+Type-safe REST APIs<br/>
+Authentication & RBAC<br/>
+Database architecture<br/>
+API integrations<br/>
+Data orchestration<br/>
+Production-oriented backend design
+
+</td>
+
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -182,25 +228,50 @@ Co-authored and presented
 
 <div align="center">
 
+<table width="100%">
+<tr>
+<td align="center">
+
 **Languages**
+
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c"/>
 
+</td>
+</tr>
+<tr>
+<td align="center">
+
 **Backend & Databases**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,prisma"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=ollama"/>
-<br/>
 <img src="https://img.shields.io/badge/RASA-5A17EE?style=for-the-badge&logo=rasa&logoColor=white"/>
 <img src="https://img.shields.io/badge/IBM%20Granite-052FAD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic%20AI-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-1a1a2e?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-6E44FF?style=for-the-badge"/>
 
+</td>
+</tr>
+<tr>
+<td align="center">
+
 **Frontend & Tools**
+
 <img src="https://skillicons.dev/icons?i=react,electron,docker,git,postman"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -237,6 +308,6 @@ Co-authored and presented
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer"/>
 
 </div>

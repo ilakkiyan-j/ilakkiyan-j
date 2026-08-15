@@ -74,7 +74,7 @@ I build applications that sit at the intersection of robust data orchestration, 
 
 <br/>
 
-### 🏥 [Medorc — AI Powered Healthcare Platform](https://github.com/Medorc/medorc-backend)
+### 🏥 [Medorc — AI Powered Healthcare Platform](https://github.com/Medorc)
 > *A robust backend powering a digital-twin-driven healthcare system.*
 
 | | |

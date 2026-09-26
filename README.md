@@ -1,13 +1,11 @@
 <div align="center">
 
 <!-- Custom Adaptive Hero Banner (Light & Dark Theme Compatible) -->
-<a href="https://ilakkiyan.tech/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-    <img src="./assets/hero-dark.svg" width="100%" alt="Ilakkiyan J — AI Product Engineer Banner"/>
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img src="./assets/hero-dark.svg" width="100%" alt="Ilakkiyan J — AI Product Engineer Banner"/>
+</picture>
 
 <br/>
 

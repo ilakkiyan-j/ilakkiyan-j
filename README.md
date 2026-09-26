@@ -12,21 +12,10 @@
 <br/>
 
 <!-- Modern Pill Navigation Badges -->
-<a href="https://ilakkiyan.tech/">
-  <img src="https://img.shields.io/badge/Portfolio-ilakkiyan.tech-B24392?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ilakkiyan-j">
-  <img src="https://img.shields.io/badge/LinkedIn-Ilakkiyan%20J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:ilakkiyanj03@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/ilakkiyan-j">
-  <img src="https://img.shields.io/badge/LeetCode-1641%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
+<a href="https://ilakkiyan.tech/"><img src="https://img.shields.io/badge/Portfolio-ilakkiyan.tech-B24392?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/ilakkiyan-j"><img src="https://img.shields.io/badge/LinkedIn-Ilakkiyan%20J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ilakkiyanj03@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://leetcode.com/ilakkiyan-j"><img src="https://img.shields.io/badge/LeetCode-1641%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 
 <br/><br/>
 
@@ -99,7 +88,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### ☁️ ALXO — AI Scope Management Platform
 `AWS AMPLIFY` · `AMAZON BEDROCK` · `NEXT.JS` · `DYNAMODB`
@@ -117,16 +106,18 @@ An AI-driven platform that detects scope creep in real-time from project communi
 Stack: Next.js · TypeScript · Amazon Bedrock · DynamoDB · S3 · AWS Amplify
 ```
 
-<a href="https://github.com/ilakkiyan-j/Alxo">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Alxo Repo"/>
-</a>
-&nbsp;
-<a href="https://main.dhbgp6utbowvg.amplifyapp.com/">
-  <img src="https://img.shields.io/badge/Live%20Demo-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" alt="Alxo Live Demo"/>
-</a>
+<a href="https://github.com/ilakkiyan-j/Alxo"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Alxo Repo"/></a>
+<a href="https://main.dhbgp6utbowvg.amplifyapp.com/"><img src="https://img.shields.io/badge/Live%20Demo-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" alt="Alxo Live Demo"/></a>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td valign="top">
 
 ### 🏥 Medorc — AI-Powered Healthcare Platform
 `RESEARCH` · `DATA ORCHESTRATION` · `ICIRCA 2026`
@@ -144,13 +135,8 @@ A digital-twin-driven healthcare platform designed around secure health-data orc
 Stack: TypeScript · Express.js · Prisma · PostgreSQL · JWT · RASA · Vercel · Render
 ```
 
-<a href="https://github.com/Medorc">
-  <img src="https://img.shields.io/badge/View%20Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="Medorc Org"/>
-</a>
-&nbsp;
-<a href="https://medorc-frontend.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Medorc Live Demo"/>
-</a>
+<a href="https://github.com/Medorc"><img src="https://img.shields.io/badge/View%20Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="Medorc Org"/></a>
+<a href="https://medorc-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Medorc Live Demo"/></a>
 
 </td>
 </tr>
@@ -344,17 +330,9 @@ Stack: TypeScript · Express.js · Prisma · PostgreSQL · JWT · RASA · Vercel
   Whether you're developing an <b>autonomous agentic workflow</b>, building a <b>local-first AI assistant</b>, or engineering <b>resilient backend microservices</b>, I'm always open to discussing new opportunities and technical collaborations.
 </p>
 
-<a href="https://ilakkiyan.tech/">
-  <img src="https://img.shields.io/badge/Launch%20Portfolio-B24392?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ilakkiyan-j">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:ilakkiyanj03@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://ilakkiyan.tech/"><img src="https://img.shields.io/badge/Launch%20Portfolio-B24392?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/ilakkiyan-j"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ilakkiyanj03@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 

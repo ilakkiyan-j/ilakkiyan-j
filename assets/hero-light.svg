@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="100%">
+  <defs>
+    <!-- Light Background Gradients -->
+    <linearGradient id="bgGradientLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+
+    <linearGradient id="magentaGlowLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#B24392" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#B24392" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="cyanGlowLight" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="textGradLight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+
+    <linearGradient id="borderGradLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(15, 23, 42, 0.16)"/>
+      <stop offset="50%" stop-color="rgba(178, 67, 146, 0.35)"/>
+      <stop offset="100%" stop-color="rgba(2, 132, 199, 0.25)"/>
+    </linearGradient>
+
+    <!-- Light Grid Pattern -->
+    <pattern id="gridLight" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(15, 23, 42, 0.04)" stroke-width="1"/>
+      <circle cx="40" cy="0" r="1" fill="rgba(15, 23, 42, 0.08)"/>
+      <circle cx="0" cy="40" r="1" fill="rgba(15, 23, 42, 0.08)"/>
+    </pattern>
+
+    <filter id="blurLight" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+  </defs>
+
+  <style>
+    .title-text-light {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+    }
+    .mono-light {
+      font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', Courier, monospace;
+      font-weight: 600;
+    }
+    .pulse-dot-light {
+      animation: pulseLight 2s infinite;
+    }
+    @keyframes pulseLight {
+      0% { opacity: 0.5; r: 4px; }
+      50% { opacity: 1; r: 5px; }
+      100% { opacity: 0.5; r: 4px; }
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="1200" height="360" rx="16" fill="url(#bgGradientLight)"/>
+
+  <!-- Ambient Light Orbs -->
+  <circle cx="200" cy="100" r="180" fill="url(#magentaGlowLight)" filter="url(#blurLight)"/>
+  <circle cx="1000" cy="240" r="160" fill="url(#cyanGlowLight)" filter="url(#blurLight)"/>
+
+  <!-- Grid -->
+  <rect width="1200" height="360" rx="16" fill="url(#gridLight)"/>
+
+  <!-- Outer Glass Frame -->
+  <rect x="1" y="1" width="1198" height="358" rx="15" fill="none" stroke="url(#borderGradLight)" stroke-width="1.5"/>
+
+  <!-- Top Status Bar & Window Controls -->
+  <g transform="translate(48, 36)">
+    <!-- Terminal Dots -->
+    <circle cx="0" cy="0" r="5" fill="#ff5f56"/>
+    <circle cx="16" cy="0" r="5" fill="#ffbd2e"/>
+    <circle cx="32" cy="0" r="5" fill="#27c93f"/>
+
+    <!-- Status Badge -->
+    <g transform="translate(68, -12)">
+      <rect width="260" height="24" rx="12" fill="#ecfdf5" stroke="#a7f3d0" stroke-width="1"/>
+      <circle cx="14" cy="12" r="4.5" fill="#059669" class="pulse-dot-light"/>
+      <text x="26" y="16" fill="#065f46" font-size="11" class="mono-light" letter-spacing="0.5">SYSTEM ACTIVE · OPEN TO COLLAB</text>
+    </g>
+
+    <!-- Right Side System Telemetry -->
+    <g transform="translate(940, -12)">
+      <rect width="160" height="24" rx="12" fill="rgba(15, 23, 42, 0.04)" stroke="rgba(15, 23, 42, 0.1)" stroke-width="1"/>
+      <text x="80" y="16" text-anchor="middle" fill="#64748b" font-size="11" class="mono-light">NODE: PROD_v2.6</text>
+    </g>
+  </g>
+
+  <!-- Hero Content Center -->
+  <g transform="translate(48, 130)">
+    <!-- Role Subtitle Overline -->
+    <g transform="translate(0, 0)">
+      <text x="0" y="0" fill="#B24392" font-size="13" class="mono-light" letter-spacing="2">01 // AI PRODUCT ENGINEER</text>
+      <line x1="210" y1="-4" x2="320" y2="-4" stroke="rgba(178, 67, 146, 0.35)" stroke-width="1"/>
+    </g>
+
+    <!-- Main Name Title -->
+    <text x="0" y="52" fill="url(#textGradLight)" font-size="46" class="title-text-light">
+      ILAKKIYAN J
+    </text>
+
+    <!-- Catchphrase / Architectural Philosophy -->
+    <text x="0" y="88" fill="#475569" font-size="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Inter', sans-serif" font-weight="400">
+      Building AI products end-to-end — from <tspan fill="#0f172a" font-weight="600">Bedrock &amp; local LLMs</tspan> to <tspan fill="#0f172a" font-weight="600">scalable AWS backends</tspan> &amp; <tspan fill="#0f172a" font-weight="600">shipped interfaces</tspan>.
+    </text>
+  </g>
+
+  <!-- Bottom Telemetry Chips -->
+  <g transform="translate(48, 282)">
+    <!-- Chip 1: Bedrock & Local AI -->
+    <g transform="translate(0, 0)">
+      <rect width="210" height="34" rx="8" fill="#fdf2f8" stroke="#f472b6" stroke-width="1"/>
+      <text x="14" y="21" fill="#9d174d" font-size="12" class="mono-light">☁️ Bedrock · Ollama · RAG</text>
+    </g>
+
+    <!-- Chip 2: Agentic Workflows -->
+    <g transform="translate(224, 0)">
+      <rect width="210" height="34" rx="8" fill="#ecfeff" stroke="#67e8f9" stroke-width="1"/>
+      <text x="14" y="21" fill="#0e7490" font-size="12" class="mono-light">⚡ Agentic Workflows</text>
+    </g>
+
+    <!-- Chip 3: AWS & Type-Safe APIs -->
+    <g transform="translate(448, 0)">
+      <rect width="210" height="34" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+      <text x="14" y="21" fill="#1e293b" font-size="12" class="mono-light">🚀 AWS &amp; Type-Safe APIs</text>
+    </g>
+
+    <!-- Chip 4: DynamoDB & Postgres -->
+    <g transform="translate(672, 0)">
+      <rect width="210" height="34" rx="8" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+      <text x="14" y="21" fill="#1e293b" font-size="12" class="mono-light">🗄️ DynamoDB &amp; Postgres</text>
+    </g>
+
+    <!-- Chip 5: Location / Spec -->
+    <g transform="translate(896, 0)">
+      <rect width="206" height="34" rx="8" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+      <text x="14" y="21" fill="#64748b" font-size="12" class="mono-light">📍 Tamil Nadu, India</text>
+    </g>
+  </g>
+</svg>

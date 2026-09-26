@@ -1,323 +1,242 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&section=header&text=Hi,%20I'm%20Ilakkiyan%20J&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Product%20Engineer%20%C2%B7%20Building%20AI%20End-to-End&descAlignY=55&descSize=18"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=B24392&size=22&center=true&vCenter=true&width=650&lines=I+build+AI+products+end-to-end;From+model+to+backend+to+shipped+product;Engineering+scalable+systems+around+LLMs;Offline+assistants+%C2%B7+RAG+%C2%B7+Agentic+workflows" alt="Typing animation"/>
+<!-- Custom Adaptive Hero Banner (Light & Dark Theme Compatible) -->
+<a href="https://ilakkiyan.tech/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+    <img src="./assets/hero-dark.svg" width="100%" alt="Ilakkiyan J — AI Product Engineer Banner"/>
+  </picture>
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ilakkiyan-j"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://ilakkiyan.tech/"><img src="https://img.shields.io/badge/Portfolio-B24392?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="mailto:ilakkiyanj03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/ilakkiyan-j"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<!-- Modern Pill Navigation Badges -->
+<a href="https://ilakkiyan.tech/">
+  <img src="https://img.shields.io/badge/Portfolio-ilakkiyan.tech-B24392?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ilakkiyan-j">
+  <img src="https://img.shields.io/badge/LinkedIn-Ilakkiyan%20J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:ilakkiyanj03@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/ilakkiyan-j">
+  <img src="https://img.shields.io/badge/LeetCode-1641%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ilakkiyan-j&label=Profile%20Views&color=B24392&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ilakkiyan-j&label=PROFILE%20VIEWS&color=B24392&style=flat-square" alt="Profile views"/>
 
 </div>
 
 <br/>
 
-## 👋 About Me
+---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=ilakkiyan-j&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B24392&icon_color=B24392&text_color=ffffff"/>
+## ⚡ Executive Summary
 
-I'm an **AI Product Engineer** — I build AI products end-to-end, from model integration and backend architecture to the interface a user actually touches.
+> I am an **AI Product Engineer** specializing in bridging the gap between raw machine intelligence and responsive production software. My work spans **local LLM orchestration, agentic autonomy, vector retrieval (RAG)**, and **type-safe backend architecture** through to desktop and web interfaces.
 
-I like working at the intersection of **backend engineering, artificial intelligence, cloud infrastructure, and product development** — from type-safe REST APIs to fully offline AI assistants powered by local LLMs to cloud-native AI platforms on AWS.
-
-<br clear="right"/>
+<br/>
 
 <div align="center">
 
-<table>
+<!-- Bento Quick Specs Grid -->
+<table width="100%">
 <tr>
-<td align="center" width="220">
-🎓<br/>
-<b>Education</b><br/>
-<sub>B.E. CS & Design</sub>
-</td>
+<td width="50%" valign="top">
 
-<td align="center" width="220">
-📊<br/>
-<b>CGPA</b><br/>
-<sub>8.5 / 10</sub>
-</td>
+### 🎓 Engineering & Foundations
+- **Institution:** Karpagam College of Engineering *(Coimbatore, TN)*
+- **Degree:** B.E. Computer Science & Design (Expected Apr 2026)
+- **Academic Merit:** 8.5 / 10 CGPA
+- **Location:** Thiruvarur / Coimbatore, Tamil Nadu, India
 
-<td align="center" width="220">
-🧠<br/>
-<b>DSA</b><br/>
-<sub>700+ Solved</sub>
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Algorithmic Problem Solving
+- **LeetCode Rating:** 1641 *(Top tier contest rating)*
+- **DSA Solved:** 700+ algorithmic problems across LeetCode & GFG
+- **Core Strengths:** Graphs, Dynamic Programming, Tree Traversal, High-efficiency data structures
+
 </td>
 </tr>
-
 <tr>
-<td align="center" width="220">
-⭐<br/>
-<b>LeetCode</b><br/>
-<sub>1641 Rating</sub>
-</td>
+<td width="50%" valign="top">
 
-<td align="center" width="220">
-🔬<br/>
-<b>Exploring</b><br/>
-<sub>Agentic AI · RAG</sub>
-</td>
+### 🔬 Research & Publications
+- **Conference:** ICIRCA 2026
+- **Paper:** *"Medorc: A Digital-Twin-Driven Framework for Real-Time Health Data Orchestration"*
+- **Domain:** Healthcare IoT, digital twins, event streams, secure clinical data routing
 
-<td align="center" width="220">
-📍<br/>
-<b>Location</b><br/>
-<sub>Tamil Nadu, India</sub>
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Focus & Exploration
+- **Cloud & Local AI:** Amazon Bedrock (Claude), Ollama local inference
+- **Agentic Workflows:** Autonomous tool execution, plan-and-solve loops
+- **Retrieval-Augmented Generation:** Semantic embeddings, ChromaDB, RAG pipelines
+
 </td>
 </tr>
 </table>
 
 </div>
 
+<br/>
+
 ---
 
-## 🧩 What I Build
+## 🚀 Flagship Projects
 
 <div align="center">
-
-<table>
-<tr>
-
-<td align="center" valign="top" width="320">
-
-### 🤖 AI Applications
-
-LLM-powered applications<br/>
-Local & cloud LLM inference (Ollama, Amazon Bedrock)<br/>
-RAG systems<br/>
-Agentic workflows<br/>
-Semantic memory<br/>
-NLP pipelines & tool calling
-
-</td>
-
-<td align="center" valign="top" width="320">
-
-### ⚙️ Backend & Cloud Systems
-
-Type-safe REST APIs<br/>
-Authentication & RBAC<br/>
-Database architecture<br/>
-AWS infrastructure (Amplify, S3, DynamoDB, Cognito)<br/>
-API integrations & data orchestration<br/>
-Production-oriented backend design
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-## 💼 Experience
 
 <table width="100%">
 <tr>
-<td width="8%" align="center">🌱</td>
-<td>
+<td width="50%" valign="top">
 
-**AI Intern — AICTE × IBM SkillsBuild × 1M1B**
+### ☁️ ALXO — AI Scope Management Platform
+`AWS AMPLIFY` · `AMAZON BEDROCK` · `NEXT.JS` · `DYNAMODB`
+
+An AI-driven platform that detects scope creep in real-time from project communications and generates evidence-backed change orders with deterministic cost modeling.
+
+- 🧠 **Bedrock Claude Workflows:** Intent classification, prompt orchestration, and contextual change detection
+- 🔢 **Deterministic Modeling:** Real-time scope variance calculations and automated budget adjustment formulas
+- ☁️ **Serverless AWS Cloud:** Architected and deployed with **AWS Amplify**, **Bedrock**, **DynamoDB**, and **S3**
+- 🔌 **Full-Stack API Design:** Robust type-safe endpoints built in **Next.js** & **TypeScript**
+
+<br/>
+
+```
+Stack: Next.js · TypeScript · Amazon Bedrock · DynamoDB · S3 · AWS Amplify
+```
+
+<a href="https://github.com/ilakkiyan-j/Alxo">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Alxo Repo"/>
+</a>
+&nbsp;
+<a href="https://main.dhbgp6utbowvg.amplifyapp.com/">
+  <img src="https://img.shields.io/badge/Live%20Demo-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" alt="Alxo Live Demo"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Medorc — AI-Powered Healthcare Platform
+`RESEARCH` · `DATA ORCHESTRATION` · `ICIRCA 2026`
+
+A digital-twin-driven healthcare platform designed around secure health-data orchestration, real-time telemetry, and natural-language triage.
+
+- 🔌 **High-Scale API Layer:** 50+ type-safe REST APIs architected with **TypeScript**, **Express.js**, and **Prisma**
+- 🔐 **Zero-Trust Security:** Strict role-based JWT authentication and multi-tiered clinical permissions
+- 💬 **Intelligent NLP Core:** Built a **RASA** medical assistant with 20+ intents and 10+ custom entities
+- 🗄️ **Data Integrity:** **PostgreSQL** on Neon with optimized relational schemas
+
+<br/>
+
+```
+Stack: TypeScript · Express.js · Prisma · PostgreSQL · JWT · RASA · Vercel · Render
+```
+
+<a href="https://github.com/Medorc">
+  <img src="https://img.shields.io/badge/View%20Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="Medorc Org"/>
+</a>
+&nbsp;
+<a href="https://medorc-frontend.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Medorc Live Demo"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 💼 Experience & Milestones
+
+<table width="100%">
+<tr>
+<td width="8%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" width="48" alt="IBM"/>
+</td>
+<td valign="top">
+
+**AI Intern — AICTE × IBM SkillsBuild × 1M1B**  
 `Jul 2026 — Sep 2026 · Virtual`
-
-Completed an Applied AI internship focused on AI for sustainability. Built **ReServe AI**, a platform for food surplus forecasting, redistribution, and food safety assistance, applying prompt engineering, NLP, RAG, and responsible AI techniques.
+- Completed an Applied AI internship focused on AI for sustainability.
+- Engineered **ReServe AI**, an AI platform for food surplus forecasting, redistribution, and food safety assistance.
+- Applied **prompt engineering, NLP, RAG, IBM Granite**, and responsible AI techniques across production pipelines.
 
 </td>
 </tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td align="center">💻</td>
-<td>
 
-**Software Development Intern — Datacom Job Simulation · Forage**
+<tr>
+<td width="8%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/DEV-00f0ff?style=for-the-badge&logo=visualstudiocode&logoColor=black" width="48" alt="Dev"/>
+</td>
+<td valign="top">
+
+**Software Development Intern — Datacom Job Simulation · Forage**  
 `Jun 2026 · Virtual`
+- Executed systematic root-cause analyses on complex codebases, implementing regression fixes and refactoring bottlenecks.
+- Maintained strict code review standards, API testing, and developer documentation.
 
-Worked through structured debugging and code-review workflows — identifying root causes, implementing fixes, and maintaining technical documentation.
+</td>
+</tr>
+
+<tr>
+<td width="8%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/AWARD-FFA116?style=for-the-badge&logo=codeforces&logoColor=black" width="48" alt="Award"/>
+</td>
+<td valign="top">
+
+**Hackathons & Innovation Honors**  
+- **🥈 2nd Place** — Smart India Hackathon (SIH) internal college round among 30+ competitive teams
+- **🥉 3rd Place** — Avantaa '24 Project Expo for **Nexaid**
 
 </td>
 </tr>
 </table>
 
----
-
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ ALXO
-**AI Scope Management Platform**
-
-An AI platform that detects scope creep from project conversations and generates evidence-backed change orders.
-
-- 🧠 Amazon **Bedrock (Claude)**-based classification & prompt workflows
-- 🔢 Deterministic cost-impact calculations
-- ☁️ Deployed on **AWS Amplify** with **DynamoDB** and **S3**
-- 🔌 Full API layer built in **Next.js**
-
-`Next.js` `TypeScript` `Amazon Bedrock` `DynamoDB` `S3` `Amplify`
-
-<a href="https://github.com/ilakkiyan-j/Alxo"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://main.dhbgp6utbowvg.amplifyapp.com/"><img src="https://img.shields.io/badge/Live%20Demo-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Medorc
-**AI-Powered Healthcare Platform**
-
-A digital-twin-driven healthcare platform designed around secure health-data orchestration and intelligent healthcare workflows.
-
-- 🔌 Type-safe REST API with **50+ endpoints**
-- 🔐 JWT auth & **role-based access control**
-- 💬 RASA chatbot with **20+ intents**
-- 🧩 **10+ custom entities**
-- 🗄️ PostgreSQL + Prisma data layer
-
-`TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `RASA`
-
-<a href="https://github.com/Medorc"><img src="https://img.shields.io/badge/View%20Organization-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://medorc-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🖥️ Sofi
-**Offline AI Desktop Assistant**
-
-A fully offline AI desktop assistant combining local LLM inference, semantic memory, voice interaction, and desktop automation.
-
-- 🧰 20+ desktop automation tools via **Ollama**
-- 🧠 Semantic memory using **ChromaDB**
-- 🎙️ Voice input with **Vosk** · 🔊 Voice output with **Coqui TTS**
-- 🖥️ Desktop UI built with **React + Electron**
-
-`React` `Electron` `FastAPI` `Python` `Ollama` `ChromaDB` `Vosk` `Coqui TTS`
-
-<a href="https://github.com/ilakkiyan-j/Sofi"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
-## 🏆 Achievements & Publications
-
-<table width="100%">
-<tr>
-<td align="center" width="33%">
-
-### 📝 ICIRCA 2026
-Co-authored and presented
-**"Medorc: A Digital-Twin-Driven Framework for Real-Time Health Data Orchestration"**
-
-</td>
-<td align="center" width="33%">
-
-### ⭐ 1641 Rating
-**LeetCode Contest Rating**
-
-700+ DSA problems solved across LeetCode & GeeksforGeeks.
-
-</td>
-<td align="center" width="33%">
-
-### 🥈 Smart India Hackathon
-**2nd Place** internally among 30+ teams; **3rd place** at Avantaa '24 Project Expo for **Nexaid**.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📜 Certifications
-
-- 🧠 **Agentic AI Certified Foundations Associate** — Oracle · Jul 2026
-- 💻 **Software Engineer** — HackerRank · Jul 2025
-- 🌐 **The Complete 2024 Web Development Bootcamp** — Udemy · Nov 2024
-
----
-
-## 🛠️ Tech Stack
+## 📜 Certifications & Accreditations
 
 <div align="center">
 
 <table width="100%">
 <tr>
-<td align="center">
+<td width="33%" align="center" valign="top">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c"/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,electron,tailwind"/>
+### 🧠 Oracle
+**Agentic AI Certified Foundations Associate**  
+`Issued Jul 2026`
 
 </td>
-</tr>
-<tr>
-<td align="center">
+<td width="33%" align="center" valign="top">
 
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,prisma"/>
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+### 💻 HackerRank
+**Software Engineer Certification**  
+`Issued Jul 2025`
 
 </td>
-</tr>
-<tr>
-<td align="center">
+<td width="33%" align="center" valign="top">
 
-**Cloud & Deployment**
-
-<img src="https://skillicons.dev/icons?i=aws,vercel,docker"/>
-<img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**AI / ML**
-
-<img src="https://img.shields.io/badge/RASA-5A17EE?style=for-the-badge&logo=rasa&logoColor=white"/>
-<img src="https://img.shields.io/badge/IBM%20Granite-052FAD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-1a1a2e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-6E44FF?style=for-the-badge"/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,postman"/>
+### 🌐 Udemy
+**The Complete 2024 Web Development Bootcamp**  
+`Issued Nov 2024`
 
 </td>
 </tr>
@@ -325,39 +244,120 @@ Co-authored and presented
 
 </div>
 
+<br/>
+
 ---
 
-## 📈 GitHub Analytics
+## 🛠️ Technical Matrix
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ilakkiyan-j&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B24392&icon_color=B24392&text_color=ffffff"/>
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilakkiyan-j&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B24392&text_color=ffffff"/>
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
 
-<br/>
+#### 🤖 AI & Intelligent Systems
+<img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Ollama-181717?style=flat-square&logo=ollama&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/IBM_Granite-052FAD?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/Agentic_AI-009688?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-B24392?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/RASA-5A17EE?style=flat-square&logo=rasa&logoColor=white"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ilakkiyan-j&theme=radical&hide_border=true&background=0d1117&ring=B24392&fire=B24392&currStreakLabel=B24392"/>
+</td>
+<td width="25%" align="center" valign="top">
 
-<br/>
+#### ⚙️ Backend & Cloud
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express&perline=2"/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,dynamodb&perline=2"/><br/>
+<img src="https://skillicons.dev/icons?i=aws,vercel&perline=2"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilakkiyan-j&theme=redical&hide_border=true&bg_color=0d1117&color=B24392&line=B24392&point=ffffff"/>
+</td>
+<td width="25%" align="center" valign="top">
+
+#### 💻 Frontend & Styling
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs&perline=2"/><br/>
+<img src="https://skillicons.dev/icons?i=tailwind,html,css&perline=2"/>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+#### 🧰 Tools & Core Languages
+<img src="https://skillicons.dev/icons?i=docker,git,postman,linux&perline=2"/><br/>
+<img src="https://skillicons.dev/icons?i=cpp,c,java&perline=2"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
 ---
 
-## 🤝 Let's Connect
+## 📈 System Telemetry & Activity
 
 <div align="center">
 
-**Interested in AI, backend engineering, developer tools, or building something useful?**
+<table border="0">
+<tr>
+<td align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ilakkiyan-j&show_icons=true&bg_color=0d1117&title_color=B24392&text_color=f0f6fc&icon_color=00f0ff&border_color=30363d&locale=en">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ilakkiyan-j&show_icons=true&bg_color=ffffff&title_color=B24392&text_color=0f172a&icon_color=0284c7&border_color=e2e8f0&locale=en">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ilakkiyan-j&show_icons=true&bg_color=0d1117&title_color=B24392&text_color=f0f6fc&icon_color=00f0ff&border_color=30363d&locale=en" alt="Ilakkiyan's GitHub Stats"/>
+  </picture>
+</td>
+<td align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ilakkiyan-j&layout=compact&bg_color=0d1117&title_color=B24392&text_color=f0f6fc&icon_color=00f0ff&border_color=30363d">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ilakkiyan-j&layout=compact&bg_color=ffffff&title_color=B24392&text_color=0f172a&icon_color=0284c7&border_color=e2e8f0">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilakkiyan-j&layout=compact&bg_color=0d1117&title_color=B24392&text_color=f0f6fc&icon_color=00f0ff&border_color=30363d" alt="Top Languages"/>
+  </picture>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ilakkiyan-j&background=0d1117&ring=B24392&fire=00f0ff&currStreakLabel=B24392&currStreakNum=ffffff&sideLabels=94a3b8&border=30363d">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ilakkiyan-j&background=ffffff&ring=B24392&fire=0284c7&currStreakLabel=B24392&currStreakNum=0f172a&sideLabels=64748b&border=e2e8f0">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilakkiyan-j&background=0d1117&ring=B24392&fire=00f0ff&currStreakLabel=B24392&currStreakNum=ffffff&sideLabels=94a3b8&border=30363d" alt="Streak Stats"/>
+  </picture>
+</td>
+</tr>
+</table>
 
-<a href="https://ilakkiyan.tech/"><img src="https://img.shields.io/badge/Explore%20My%20Portfolio-B24392?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ilakkiyan-j"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ilakkiyanj03@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
+<br/>
+
+---
+
+## 🤝 Let's Architect the Future
+
+<div align="center">
+
+<p>
+  Whether you're developing an <b>autonomous agentic workflow</b>, building a <b>local-first AI assistant</b>, or engineering <b>resilient backend microservices</b>, I'm always open to discussing new opportunities and technical collaborations.
+</p>
+
+<a href="https://ilakkiyan.tech/">
+  <img src="https://img.shields.io/badge/Launch%20Portfolio-B24392?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ilakkiyan-j">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:ilakkiyanj03@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer"/>
+<sub>Crafted with precision &amp; systems engineering principles · © 2026 Ilakkiyan J</sub>
 
 </div>

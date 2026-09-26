@@ -240,39 +240,33 @@ Stack: TypeScript · Express.js · Prisma · PostgreSQL · JWT · RASA · Vercel
 
 <table width="100%">
 <tr>
-<td width="25%" align="center" valign="top">
-
-#### 🤖 AI & Intelligent Systems
-<img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Ollama-181717?style=flat-square&logo=ollama&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/IBM_Granite-052FAD?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/Agentic_AI-009688?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/RAG_Pipelines-B24392?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square"/><br/>
-<img src="https://img.shields.io/badge/RASA-5A17EE?style=flat-square&logo=rasa&logoColor=white"/>
-
+<td width="26%" align="center"><b>🤖 AI &amp; Intelligent Systems</b></td>
+<td align="left">
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-181717?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM_Granite-052FAD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-009688?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-B24392?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RASA-5A17EE?style=flat-square&logo=rasa&logoColor=white"/>
 </td>
-<td width="25%" align="center" valign="top">
-
-#### ⚙️ Backend & Cloud
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express&perline=2"/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,dynamodb&perline=2"/><br/>
-<img src="https://skillicons.dev/icons?i=aws,vercel&perline=2"/>
-
+</tr>
+<tr>
+<td width="26%" align="center"><b>⚙️ Backend &amp; Cloud</b></td>
+<td align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,mysql,prisma,dynamodb,aws,vercel"/>
 </td>
-<td width="25%" align="center" valign="top">
-
-#### 💻 Frontend & Styling
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs&perline=2"/><br/>
-<img src="https://skillicons.dev/icons?i=tailwind,html,css&perline=2"/>
-
+</tr>
+<tr>
+<td width="26%" align="center"><b>💻 Frontend &amp; Styling</b></td>
+<td align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,html,css"/>
 </td>
-<td width="25%" align="center" valign="top">
-
-#### 🧰 Tools & Core Languages
-<img src="https://skillicons.dev/icons?i=docker,git,postman,linux&perline=2"/><br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,java&perline=2"/>
-
+</tr>
+<tr>
+<td width="26%" align="center"><b>🧰 Tools &amp; Languages</b></td>
+<td align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,postman,linux,cpp,c,java"/>
 </td>
 </tr>
 </table>
